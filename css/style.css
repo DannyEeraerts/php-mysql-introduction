@@ -1,0 +1,39 @@
+body{
+  color: saddlebrown !important;
+}
+.error{
+  color: red;
+  font-size: 0.85rem;
+}
+.form-group.required .control-label:after {
+  content:"*";
+  color:red;
+}
+.bg-orange{
+  background-color: #ce8016 !important;
+}
+textarea{
+  height: 800px;
+}
+.custom-select{
+  color: #595959 !important;
+}
+a.text-light:focus, a.text-light:hover{
+  color: saddlebrown !important;
+}
+.btn-group-lg > .btn, .btn-lg{
+  padding: 0.25rem 1rem !important;
+}
+.alert-danger {
+  color: red !important;
+  background-color: white !important;
+  border-color: red !important;
+}
+.alert-success {
+  color: saddlebrown !important;
+  background-color: white !important;
+  border-color: saddlebrown !important;
+}
+.link{
+  color: blue;
+}
